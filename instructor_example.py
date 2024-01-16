@@ -3,6 +3,6 @@
 def get_greatest_data_structure():
   return "Stack"
 
-assert get_greatest_data_structure() == "Hash Table"
+assert get_greatest_data_structure() == "Hash Table", "A stack is not the greatest data structure of all time"
 
 print("Test Passed!")
